@@ -1,11 +1,12 @@
 # CMPUT 301: Lab 6 Participation Exercise
 
 ## Student Details
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Zariya Yi
+- **CCID:** yunzhu1
 
 ## References and Resources
-List any resources used here, or simply put `N/A` if not applicable.
+CMPUT 301 Lab 6 instructions and slides.
+ChatGPT (used for understanding the lab instructions and troubleshooting).
 
 ## Verbal Collaboration
-List students' names and CCIDs here, or simply put `N/A` if not applicable. 
+N/A
